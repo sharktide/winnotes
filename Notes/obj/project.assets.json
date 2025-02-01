@@ -33167,11 +33167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rihaan.meher\\Documents\\Visual Studio\\Notes\\Notes\\Notes\\Notes.csproj",
+      "projectUniqueName": "C:\\Users\\rihaan.meher\\Documents\\GitHub\\winnotes\\Notes\\Notes.csproj",
       "projectName": "Notes",
-      "projectPath": "C:\\Users\\rihaan.meher\\Documents\\Visual Studio\\Notes\\Notes\\Notes\\Notes.csproj",
+      "projectPath": "C:\\Users\\rihaan.meher\\Documents\\GitHub\\winnotes\\Notes\\Notes.csproj",
       "packagesPath": "C:\\Users\\rihaan.meher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rihaan.meher\\Documents\\Visual Studio\\Notes\\Notes\\Notes\\obj\\",
+      "outputPath": "C:\\Users\\rihaan.meher\\Documents\\GitHub\\winnotes\\Notes\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
