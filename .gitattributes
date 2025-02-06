@@ -2,6 +2,6 @@
 
 *.xaml.cs linguist-language = cs
 
-*.xaml linguist-language = XAML
+*.xaml linguist-language = Other
 
 *.xaml linguist-detectable
