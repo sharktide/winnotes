@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Reclassify .xaml.cs files as C#
+*.xaml.cs linguist-language = cs
+
+*.xaml linguist-language = xaml
